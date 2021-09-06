@@ -7,16 +7,16 @@ The dynamic webpage is accessible at xxxx.
 
 ### Using the UFO Sightings Webpage
 #### Filtering by One Inputs
-If a user wants to filter out by one field, lets say the date field, the user will click inside the date field box, and type a respective date. 
-![One_Filter]()
+If a user wants to filter out by one field, lets say the date field, the user will click inside the date field box, and type a respective date. (take note, that the greyed out input txt fields are default values)  
+![One_Filter](https://github.com/rick2stack/UFOs/blob/main/static/images/one_filter.PNG)
 
 #### Filtering by One Inputs
-In the event the user wants to filter by two or more fields, the user will filter out by one input (as mentioned above) and repeat the same steps for the second input. 
-![Two_Filters]()
+In the event the user wants to filter by two or more fields, the user will filter out by one input (as mentioned above) and repeat the same steps for the second input.  
+![Two_Filters](https://github.com/rick2stack/UFOs/blob/main/static/images/two_filters.PNG)
 
 #### Remove Filters
-To remove filters the user will have to delete the text in the input field box. 
-![Remove_Filter]()
+To remove filters the user will have to delete the text in the input field box.  
+![Remove_Filter](https://github.com/rick2stack/UFOs/blob/main/static/images/Remove_Filter.PNG)
 
 
 ## Results
