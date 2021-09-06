@@ -2,8 +2,6 @@
 ## Project Overview
 The purpose of this project is to create a dynamic website that displays UFO sighting data.  The website has inputs which filters the UFO sighting data upon change. This enables the users to filter out data based on one or multiple of the following fields: Date, City, State, Country, and Shape of UFOs. 
 ## Results
-### Link to UFO Sightings Webpage
-The dynamic webpage is accessible at xxxx.
 
 ### Using the UFO Sightings Webpage
 #### Filtering by One Inputs
