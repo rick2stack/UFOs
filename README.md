@@ -8,13 +8,15 @@ The dynamic webpage is accessible at xxxx.
 ### Using the UFO Sightings Webpage
 #### Filtering by One Inputs
 If a user wants to filter out by one field, lets say the date field, the user will click inside the date field box, and type a respective date. 
+![One_Filter]()
 
 #### Filtering by One Inputs
 In the event the user wants to filter by two or more fields, the user will filter out by one input (as mentioned above) and repeat the same steps for the second input. 
-
+![Two_Filters]()
 
 #### Remove Filters
 To remove filters the user will have to delete the text in the input field box. 
+![Remove_Filter]()
 
 
 ## Results
